@@ -1,3 +1,4 @@
+
 name: controlcentre
 title: Control Centre
 description: Your central hub for staying in control.
@@ -5,3 +6,4 @@ theme: minima
 
 header_pages:
   - privacy.md
+

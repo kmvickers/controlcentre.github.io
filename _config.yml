@@ -1,2 +1,6 @@
-name : controlcentre
-theme : minima
+title: Control Centre
+description: Control Centre app
+theme: minima
+
+header_pages:
+  - privacy.md
